@@ -1,0 +1,21 @@
+{
+"name": "My Blogger App",
+"short_name": "MyApp",
+"start_url": "/",
+"display": "standalone",
+"background_color": "#667eea",
+"theme_color": "#667eea",
+"orientation": "portrait",
+"icons": [
+{
+"src": "https://cdn-icons-png.flaticon.com/512/733/733585.png",
+"sizes": "192x192",
+"type": "image/png"
+},
+{
+"src": "https://cdn-icons-png.flaticon.com/512/733/733585.png",
+"sizes": "512x512",
+"type": "image/png"
+}
+]
+}
